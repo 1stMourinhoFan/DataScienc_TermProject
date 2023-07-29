@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello~! hahaha
+=======
+asdfasdf
+hello
+>>>>>>> 6bde6f4 (stash files added)
